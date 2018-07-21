@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
           tools:node="merge"
-          package="com.github.yeriomin.yalpstore" >
+          package="com.github.yeriomin.yalpstorel" >
 
     <application>
         <activity android:name=".SearchActivity">
